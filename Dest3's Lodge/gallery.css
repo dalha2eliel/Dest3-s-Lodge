@@ -1,0 +1,58 @@
+*
+body{
+    background-color: black;
+    font-family: "Audiowide", sans-serif;
+}
+.nav{
+    background-color: goldenrod;
+    font-family: "Audiowide", sans-serif;
+}
+ul{
+    display: flex;   
+    font-size: 30px;
+    font-family: "Audiowide", sans-serif;
+}
+li{
+    list-style: none;
+    margin-left: 12px;
+    font-family: "Audiowide", sans-serif;
+}
+a{
+    text-decoration: none;
+    color: royalblue;
+    padding-left: 0.7em;
+    font-family: "Audiowide", sans-serif;
+}
+a:hover{
+    color: goldenrod;
+    background-color: black;
+    border-radius: 3em;
+    font-family: "Audiowide", sans-serif;
+}
+.fig figure img{
+    width: 500px;
+    height: 250px;
+    border-right-style: solid ;
+    border-left-style: dotted;
+    border-color: goldenrod;
+    border-radius: 4em;
+    font-family: "Audiowide", sans-serif;
+}
+h1{
+    font-family: "Audiowide", sans-serif;
+}
+h2{
+    font-family: "Audiowide", sans-serif;
+}
+h3{
+    font-family: "Audiowide", sans-serif;
+}
+h4{
+    font-family: "Audiowide", sans-serif;
+}
+h5{
+    font-family: "Audiowide", sans-serif;
+}
+p{
+    font-family: "Audiowide", sans-serif;
+}
